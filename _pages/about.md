@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My goal is to show quantum advantage"
+title: "A guy persistent in showing quantum advantage"
 excerpt: "About .me"
 author_profile: true
 redirect_from: 

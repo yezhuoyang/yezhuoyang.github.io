@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Zhiyuan College, Shanghai Jiaotong University, GitHub University, 2022
 
-Work experience
+
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -29,11 +28,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Physics
+* Programming language
+  * C++
+  * python
+  * java
 * Skill 3
 
 Publications
